@@ -1,0 +1,45 @@
+/* esto es un comentario*/
+
+body {
+    background: chocolate;
+}
+
+#ingresoingreso {
+    text-align: center;
+}
+
+#registroregistro {
+    text-align: center;
+}
+
+#fieldingreso {
+    background: gray;
+    width: 250px;
+    height: 180px;
+    margin-left: 550px;
+}
+
+#fieldregistro {
+    background: gray;
+    width: 200px;
+    height: 360px;
+    margin-left: 550px;
+}
+
+#fieldindex {
+    background: black;
+    width: 200px;
+    height: 15px;
+    text-align: center;
+    margin-left: 1100px;
+}
+
+footer {
+    background: black;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 1350px;
+    height: 80px;
+    color: white
+}
